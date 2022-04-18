@@ -1,9 +1,5 @@
-import React from 'react';
-
-function App() {
+export function App() {
   return (
     <h1>Heloow</h1>
   );
 }
-
-export default App;
