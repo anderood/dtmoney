@@ -1,5 +1,7 @@
 export function App() {
   return (
-    <h1>Heloow</h1>
+    <div className="App">
+      <h1>hellow</h1>
+    </div>
   );
 }
